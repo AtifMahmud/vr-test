@@ -1,3 +1,17 @@
+# Submission
+
+ - Please open the scene title Submission
+ - The door can be opened by pushing at it with the right controller
+ - Check the video under the folder Demo Video
+
+ ## Issues I faced
+
+ - Unity physics
+ - Grabbing
+ - VRTK/SteamVR compatibility issues
+
+
+===========================================================
 # VR development test starter
 
 This is a starter unity project with basic settings and models for a VR development technical test. Since this is a barebones project,
